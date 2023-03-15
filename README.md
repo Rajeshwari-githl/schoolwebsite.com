@@ -1,2 +1,2 @@
-# schoolwebsite.com
+# schoolwebsite
 built a school website 
