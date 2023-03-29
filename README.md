@@ -43,7 +43,7 @@ Website URL: http://localhost/rhs/index_main.html
  <b>MAPs  etc.., </b><br>
   # screenshots:
   <br>
-  <img src="images/bg/bg1.jpg"  alt=""  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-bgparallax="10" data-no-retina>
+  <img src="schoolwebsite.com/Screenshots/Screenshot2.png"  alt=""  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-bgparallax="10" data-no-retina>
               
 
 
