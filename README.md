@@ -34,15 +34,16 @@ Website URL: http://localhost/rhs/index_main.html
  
  </ul>
  <hr>
- # Bootstrap
- # Jquery
+ <br>
+ # Bootstrap <br>
+ # Jquery <br>
  
  # Php
- <b>DOM manipulation</b>
- <b>MAPs  etc.., </b>
+ <b>DOM manipulation</b> <br>
+ <b>MAPs  etc.., </b><br>
   # screenshots:
   <br>
-  <img src=""
+  <img src="schoolwebsite.com/Screenshots/Screenshot2.png" alt="screenshot">
  
 
 
