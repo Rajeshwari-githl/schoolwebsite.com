@@ -41,9 +41,5 @@ Website URL: http://localhost/rhs/index_main.html
  # Php
  <b>DOM manipulation</b> <br>
  <b>MAPs  etc.., </b><br>
-  # screenshots:
-  <br>
-  <img src="schoolwebsite.com/screenshots/screenshot2.png"  alt=""   data-bgrepeat="no-repeat" type="png">
-              
-
+  
 
