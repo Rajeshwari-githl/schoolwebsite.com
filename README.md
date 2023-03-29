@@ -5,11 +5,19 @@ Website URL: http://localhost/rhs/index_main.html
  
  
  Tools/ Technologies used:
-#HTML
-.images
+ 
+ 
+# HTML
+
+.images 
+
 .Tables
+
 .Forms
-#CSS
+<hr>
+
+
+# CSS
 .style elements
 .link elements
 .selectors
