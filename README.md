@@ -9,19 +9,40 @@ Website URL: http://localhost/rhs/index_main.html
  
  
 # HTML
-<ol>
+<ul>
  <li>images </li> 
 
  <li>Tables </li>
 
  <li>Forms </li>
- </ol>
+ </ul>
 <hr>
 
 
 # CSS
-.style elements
-.link elements
-.selectors
+<ul>
+ <li>style elements </li>
+<li>link elements </li>
+ <li>selectors </li>
+ </ul>
+ <hr>
+ 
+ # Js
+ <ul>
+ <li>localstorage</li>
+ <li>API </li>
+ 
+ </ul>
+ <hr>
+ # Bootstrap
+ # Jquery
+ 
+ # Php
+ <b>DOM manipulation</b>
+ <b>MAPs  etc.., </b>
+  # screenshots:
+  <br>
+  <img src=""
+ 
 
 
