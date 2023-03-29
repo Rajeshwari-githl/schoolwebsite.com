@@ -43,5 +43,7 @@ Website URL: http://localhost/rhs/index_main.html
  <b>MAPs  etc.., </b><br>
  # screenshots
  <img src="https://github.com/Rajeshwari-githl/schoolwebsite.com/blob/main/Screenshots/Screenshot%202.png">
+ <br>
+ <img src="https://github.com/Rajeshwari-githl/schoolwebsite.com/blob/main/Screenshots/Screenshot%204.png">
   
 
