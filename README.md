@@ -49,6 +49,10 @@ Website URL: http://localhost/rhs/index_main.html
  
  <p> if u have any idea to improve it or make it more interesting, u can feel free to send a PR. </p>
 
-
+# Texteditors
+<ul>
+ <li>Vs code</li>
+ <li>Xampp </p>
+ </ul>
   
 
