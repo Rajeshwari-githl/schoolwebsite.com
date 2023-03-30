@@ -52,7 +52,7 @@ Website URL: http://localhost/rhs/index_main.html
 # Texteditors
 <ul>
  <li>Vs code</li>
- <li>Xampp </p>
+ <li>Xampp server </p>
  </ul>
   
 
