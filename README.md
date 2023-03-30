@@ -46,5 +46,9 @@ Website URL: http://localhost/rhs/index_main.html
  <br>
  <img src="https://github.com/Rajeshwari-githl/schoolwebsite.com/blob/main/Screenshots/Screenshot%204.png">
  <br>
+ 
+ <p> if u have any idea to improve it or make it more interesting, u can feel free to send a PR </p>
+
+
   
 
