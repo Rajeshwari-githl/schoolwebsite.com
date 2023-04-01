@@ -58,6 +58,19 @@ Website URL: http://localhost/rhs/index_main.html
  <h4> website pages</h4>
  <ul type="circle">
   <li>Home</li>
+ <li>About us <li>Achievements<li>
+ <li>vision</li>
+ </li>
+ <li>Academics
+   <li>courses</li>
+   <li>concepts</li>
+   <li>school details</li>
+   </li>
+   <li>Mandatory public disclosure</li>
+   <li>Activites</li>
+   <li>campus</li>
+   <Contact Us</li>
+ 
  
  </ul>
  
