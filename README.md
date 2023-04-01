@@ -57,7 +57,7 @@ Website URL: http://localhost/rhs/index_main.html
  
  <h4> website pages</h4>
  <ul type="circle">
- <a href="index_main.html">home</a>
+  <li>Home</li>
  
  </ul>
  
