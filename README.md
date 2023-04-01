@@ -62,11 +62,11 @@ Website URL: http://localhost/rhs/index_main.html
  <li>Achievements<li>
 
 
- <li>Academics
+ <li>Academics </li>
    <li>courses</li>
    <li>concepts</li>
    <li>school details</li>
-   </li>
+   
    <li>Mandatory public disclosure</li>
    <li>Activites</li>
    <li>campus</li>
