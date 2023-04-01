@@ -67,6 +67,7 @@ Website URL: http://localhost/rhs/index_main.html
       <li>Mandatory public disclosure</li>
    <li>Activites</li>
    <li>campus</li>
+ <li>Events</li>
    <li>Contact Us</li>
   </ul>
  
