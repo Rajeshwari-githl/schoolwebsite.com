@@ -55,7 +55,11 @@ Website URL: http://localhost/rhs/index_main.html
  <li>Xampp server </p>
  </ul>
  
- <h6> website pages</h6>
+ <h4> website pages</h4>
+ <ul type="circle">
+ <a href="index_main.html">home</a>
+ 
+ </ul>
  
  
   
