@@ -45,8 +45,10 @@ Website URL: http://localhost/rhs/index_main.html
  # screenshots
  <img src="https://github.com/Rajeshwari-githl/schoolwebsite.com/blob/main/Screenshots/Screenshot%202.png">
  <br>
+ <hr>
  <img src="https://github.com/Rajeshwari-githl/schoolwebsite.com/blob/main/Screenshots/Screenshot%204.png">
  <br>
+ <hr>
  
  <p> if u have any idea to improve it or make it more interesting, u can feel free to send a PR. </p>
 
@@ -70,7 +72,8 @@ Website URL: http://localhost/rhs/index_main.html
    <li>campus</li>
  <li>Events</li>
    <li>Contact Us</li>
-  </ul>
+ <p>In this website have 20pages to understand about the school environment of central board school education(CBSE)</p>
+</ul>
  
  
   
