@@ -75,7 +75,7 @@ Website URL: http://localhost/rhs/index_main.html
    <li>Contact Us</li>
  <p>In this website have 20pages to understand about the school environment of central board school education(CBSE)</p>
 </ul>
-<p> this website designed based on the cbse school environment and studies</p>
+<p> this website designed based on the cbse school environment and studies.</p>
  
  
   
